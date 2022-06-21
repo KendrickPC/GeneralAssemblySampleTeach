@@ -78,7 +78,7 @@ returnsAValue(); // logs "hi",
 Write a function that RETURNS what you are grateful for today. Call the function:
 ```js
 function gratefulForToday() {
-  return "Today I am grateful for my dogies"
+  return "Today I am grateful for my doggies"
 }
 gratefulForToday();
 ```
