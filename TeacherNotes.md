@@ -200,5 +200,5 @@ function counter() {
 counter(); // "Kenneth has called the counter function 1 times!"
 counter(); // "Kenneth has called the counter function 2 times!"
 count; // 2
-// instructorName; // Uncaught ReferenceError: myName is not defined
+// instructorName; // Uncaught ReferenceError: instructorName is not defined
 ```
